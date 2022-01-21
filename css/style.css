@@ -1,0 +1,27 @@
+.panda-bg-info {
+  background-color: #feeae9;
+}
+
+.button-bg-danger {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border: none;
+  color: #ffff;
+  padding: 9px 25px;
+  border-radius: 8px;
+}
+
+.catagories-bg-warning {
+  background-color: #ffa500;
+}
+
+.catagories-bg-success {
+  background-color: #da70d6;
+}
+
+.catagories-bg-primary {
+  background-color: #0000ff;
+}
+
+.catagories img {
+  width: 100px;
+}
